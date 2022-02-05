@@ -24,3 +24,5 @@ const result = twoNumberSum(array, targetSum);
 console.log(result);
 
 // Solution Number 2 
+
+
