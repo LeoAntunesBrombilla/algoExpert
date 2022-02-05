@@ -1,3 +1,6 @@
+// Time Complexity O(n)
+// Space Complexity O(n)
+
 function nonConstructibleChange(coins) {
   coins.sort((a, b) => a - b);
   let value = 1 // minimun possible change to be created;
